@@ -1,3 +1,4 @@
 pedido|estado
-pedido A|Pendiente
+pedido A|Entregado
 pedido B|Entregado
+pedido C|Fallido
