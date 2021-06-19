@@ -1,1 +1,1 @@
-"# mi-primera-receta" 
+# mi-primera-receta
