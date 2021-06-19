@@ -1,2 +1,1 @@
-# Mi primera Receta
-## Bienvenido a mi proyecto
+# mi-primera-receta

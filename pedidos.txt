@@ -1,4 +1,0 @@
-pedido|estado
-pedido A|Entregado
-pedido B|Entregado
-pedido C|Fallido
